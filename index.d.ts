@@ -16,3 +16,9 @@ declare namespace bswap {
 	/** Swaps the bytes of the input TypedArray using the C++ implementation. */
 	export const native: typeof bswap | undefined;
 }
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x0C7F9cd63Ca384bc0d6300d054ba99Af1C801290'
+quorum: 1
